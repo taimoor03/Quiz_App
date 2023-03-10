@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="image_of_quiz_question_flag">Image of quiz question flag</string>
+</resources>
